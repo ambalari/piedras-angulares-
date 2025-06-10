@@ -1,0 +1,116 @@
+body{
+    background-color: #1f1f1f;
+    color: white;
+    text-align: center;
+}
+
+.about{
+    max-width: 800px;   
+    margin: 0 auto;    
+    text-align: justify;
+    font-size: 18px;    
+    line-height: 1.6;  
+    margin-bottom: 10px;
+}
+.container {
+    display:flex;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.card1 {
+    width: 250px;
+    height: 200px;
+    background-color: #1a1a1a;
+    transition: all .2s;
+    padding: 20px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.card1:hover {
+    transform: scale(0.98);
+    border-radius: 20px;
+}
+
+.card1:hover {
+    box-shadow: 0px 0px 30px 1px rgba(0, 255, 117, 0.30);
+}
+
+.card2 {
+    width: 250px;
+    height: 200px;
+    background-color: #1a1a1a;
+    transition: all .2s;
+    padding: 20px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.card2:hover {
+    transform: scale(0.98);
+    border-radius: 20px;
+}
+
+.card2:hover {
+    box-shadow: 0px 0px 30px 1px rgba(0, 255, 117, 0.30);
+}
+
+.card3 {
+    width: 250px;
+    height: 200px;
+    background-color: #1a1a1a;
+    transition: all .2s;
+    padding: 20px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.card3:hover {
+    transform: scale(0.98);
+    border-radius: 20px;
+}
+
+.card3:hover {
+    box-shadow: 0px 0px 30px 1px rgba(0, 255, 117, 0.30);
+}
+
+.card4 {
+    width: 250px;
+    height: 200px;
+    background-color: #1a1a1a;
+    transition: all .2s;
+    padding: 20px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.card4:hover {
+    transform: scale(0.98);
+    border-radius: 20px;
+}
+
+.card4:hover {
+    box-shadow: 0px 0px 30px 1px rgba(0, 255, 117, 0.30);
+}
+
+.card5 {
+    width: 250px;
+    height: 200px;
+    background-color: #1a1a1a;
+    transition: all .2s;
+    padding: 20px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.card5:hover {
+    transform: scale(0.98);
+    border-radius: 20px;
+}
+
+.card5:hover {
+    box-shadow: 0px 0px 30px 1px rgba(0, 255, 117, 0.30);
+}
